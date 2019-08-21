@@ -8,4 +8,4 @@
  */
 
 rootProject.name = 'head-first-design-patterns'
-include 'abstract-factory-pattern'
+include 'strategy-pattern'

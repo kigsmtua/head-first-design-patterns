@@ -4,3 +4,4 @@ Key takeway
 - Take away the parts that vary, encapsulate them such that changing them becomes a breeze
 - Polymorphism (encapsulate an objects behaviour ? no ?)
 - Dont program to an implementation(make our code a bit easier to refactor)
+- Favor composition over inheritance
