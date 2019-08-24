@@ -2,5 +2,5 @@ plugins {
     id 'java'
     id 'application'
 }
-///This is what happens 
-mainClassName = 'abstractfactory.Main' 
+///This is what happens
+mainClassName = 'strategy.Main' 
