@@ -1,4 +1,4 @@
-package abstractfactory;
+package strategy;
 
 /**
  * This just means I can actually take out the application values

@@ -1,4 +1,4 @@
-package abstractfactory;
+package strategy;
 
 /**
  * Implements a quackBehaviour

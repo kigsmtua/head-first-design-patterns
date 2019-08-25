@@ -1,4 +1,4 @@
-package abstractfactory;
+package strategy;
 
 /**
  * This duck cant quack

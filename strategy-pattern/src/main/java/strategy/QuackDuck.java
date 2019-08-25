@@ -1,4 +1,4 @@
-package abstractfactory;
+package strategy;
 
 /**
  * This is where the duck comes along and can be used

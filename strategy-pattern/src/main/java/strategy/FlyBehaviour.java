@@ -1,4 +1,4 @@
-package abstractfactory;
+package strategy;
 
 /**
  * Seems like we should be progr

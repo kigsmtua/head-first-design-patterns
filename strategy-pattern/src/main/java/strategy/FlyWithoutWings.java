@@ -1,4 +1,4 @@
-package abstractfactory;
+package strategy;
 
 /**
  * This bugger cannot fly without

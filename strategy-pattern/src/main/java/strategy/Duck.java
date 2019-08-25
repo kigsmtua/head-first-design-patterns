@@ -1,4 +1,4 @@
-package abstractfactory;
+package strategy;
 
 /**
  * A lot of code to make code easier to change ? no ?
